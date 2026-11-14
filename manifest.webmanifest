@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "真写 — Mirror Photo Gallery",
+  "short_name": "真写",
+  "description": "写真を鏡像で閲覧する、絵の参考資料向けフォトビューア",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

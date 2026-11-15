@@ -1,15 +1,15 @@
 {
-  "id": "./",
-  "name": "真写 — Mirror Photo Gallery",
-  "short_name": "真写",
-  "description": "写真を鏡像で閲覧する、絵の参考資料向けフォトビューア",
+  "id": "./?app=mac",
+  "name": "真写 for Mac",
+  "short_name": "真写 Mac",
+  "description": "Mac向けの写真反転ビューア",
   "lang": "ja",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "background_color": "#151619",
+  "theme_color": "#151619",
   "icons": [
     {
       "src": "./icon-192.png",
